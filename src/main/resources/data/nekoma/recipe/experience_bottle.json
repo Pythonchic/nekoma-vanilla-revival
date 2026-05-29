@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "beb",
+    "bbb"
+  ],
+  "key": {
+    "b": "minecraft:glass_bottle",
+    "e": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "minecraft:experience_bottle",
+    "count": 8
+  }
+}
