@@ -4,6 +4,7 @@
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"entity.HorseEntityMixin",
+		"entity.PhantomEntityMixin",
 		"item.GlisteringMelonSliceMixin",
 		"item.RawMeatMixin"
 	],
