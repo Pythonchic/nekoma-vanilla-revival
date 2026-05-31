@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "nekoma",
+	"id": "vanilla-tweaks",
 	"version": "${version}",
-	"name": "Nekoma",
+	"name": "Vanilla Tweaks",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
@@ -11,21 +11,21 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/nekoma/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.nekoma.Nekoma"
+			"com.example.vanillatweaks.VanillaTweaks"
 		],
 		"client": [
-			"com.example.nekoma.client.NekomaClient"
+			"com.example.vanillatweaks.client.VanillaTweaksClient"
 		]
 	},
 	"mixins": [
-		"nekoma.mixins.json",
+		"vanilla-tweaks.mixins.json",
 		{
-			"config": "nekoma.client.mixins.json",
+			"config": "vanilla-tweaks.client.mixins.json",
 			"environment": "client"
 		}
 	],

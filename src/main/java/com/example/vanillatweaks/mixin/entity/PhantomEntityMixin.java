@@ -1,4 +1,4 @@
-package com.example.nekoma.mixin.entity;
+package com.example.vanillatweaks.mixin.entity;
 
 import net.minecraft.entity.mob.PhantomEntity;
 import net.minecraft.util.math.BlockPos;

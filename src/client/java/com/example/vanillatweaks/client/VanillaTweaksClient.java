@@ -1,8 +1,8 @@
-package com.example.nekoma.client;
+package com.example.vanillatweaks.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class NekomaClient implements ClientModInitializer {
+public class VanillaTweaksClient implements ClientModInitializer {
 	@Override
 	public void onInitializeClient() {
 		// This entrypoint is suitable for setting up client-specific logic, such as rendering.

@@ -1,4 +1,4 @@
-package com.example.nekoma.mixin.item;
+package com.example.vanillatweaks.mixin.item;
 
 import net.minecraft.component.ComponentMap;
 import net.minecraft.component.DataComponentTypes;
@@ -11,10 +11,6 @@ import net.minecraft.item.Items;
 import net.minecraft.item.consume.ApplyEffectsConsumeEffect;
 import net.fabricmc.fabric.api.item.v1.FabricComponentMapBuilder;
 
-import java.util.List;
-import java.util.ArrayList;
-
-import net.minecraft.item.consume.ConsumeEffect;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
