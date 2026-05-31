@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "nekoma:iron_horse_armor"
+        "recipe": "vanilla-tweaks:iron_horse_armor"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "nekoma:iron_horse_armor"
+      "vanilla-tweaks:iron_horse_armor"
     ]
   }
 }

@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "nekoma:experience_bottle"
+        "recipe": "vanilla-tweaks:experience_bottle"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "nekoma:experience_bottle"
+      "vanilla-tweaks:experience_bottle"
     ]
   }
 }

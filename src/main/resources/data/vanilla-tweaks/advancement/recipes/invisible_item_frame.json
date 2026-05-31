@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "nekoma:invisible_item_frame"
+        "recipe": "vanilla-tweaks:invisible_item_frame"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "nekoma:invisible_item_frame"
+      "vanilla-tweaks:invisible_item_frame"
     ]
   }
 }
